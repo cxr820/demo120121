@@ -1,4 +1,6 @@
 2+2
 pwd()
 list.files()
-#A comment
+#A better comment
+
+results1 <- glm(model1, etc)
